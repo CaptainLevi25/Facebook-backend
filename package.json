@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.4"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "react-bootstrap": "^2.8.0"
+  }
+}
